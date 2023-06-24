@@ -1,8 +1,6 @@
 # Chat-Application
 This is a real-time chat application built using HTML, CSS, Node.js, and Socket.IO. The application allows users to join chat rooms and exchange messages with other connected users in real-time.
-
-# Features
-
+Features
 Real-time Messaging: Users can send and receive messages in real-time, providing a seamless chat experience.
 
 Multiple Chat Rooms: Users can choose from multiple chat rooms to join, allowing them to engage in conversations on different topics or with different groups of people.
@@ -36,7 +34,7 @@ Contributions to this project are welcome! If you have any suggestions or encoun
 
 # License
 This project is licensed under the MIT License.
-# Acknowledgments
+Acknowledgments
 The Chat Application is built on the foundations of HTML, CSS, Node.js, and Socket.IO, which provide the necessary tools and libraries for real-time communication.
 
 Thanks to the open-source community for their valuable contributions and resources that helped in the development of this project.
